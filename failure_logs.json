@@ -1,0 +1,109 @@
+[
+    {
+        "operation_id": "e56bba15-8cd2-4f15-9c71-68823b1d8f26",
+        "operation_name": "PUT",
+        "start_time": 1627892345.123,
+        "end_time": 1627892345.456,
+        "request_payload": {
+            "key": "x",
+            "value": 1
+        },
+        "response_payload": {
+            "status": "success",
+            "data": {
+                "key": "x",
+                "value": 1
+            }
+        },
+        "status_code": 200,
+        "thread_id": 140735639618304
+    },
+    {
+        "operation_id": "f1a7b4a0-92d1-4d2b-94a7-f1346c927a75",
+        "operation_name": "GET",
+        "start_time": 1627892346.123,
+        "end_time": 1627892346.456,
+        "request_payload": {
+            "key": "x"
+        },
+        "response_payload": {
+            "status": "success",
+            "data": {
+                "key": "x",
+                "value": 1
+            }
+        },
+        "status_code": 200,
+        "thread_id": 140735639618304
+    },
+    {
+        "operation_id": "0c104a8b-5f4d-4834-9a0b-5d3d4f7c4a0f",
+        "operation_name": "PUT",
+        "start_time": 1627892347.123,
+        "end_time": 1627892347.456,
+        "request_payload": {
+            "key": "x",
+            "value": 1
+        },
+        "response_payload": {
+            "status": "success",
+            "data": {
+                "key": "x",
+                "value": 1
+            }
+        },
+        "status_code": 201,
+        "thread_id": 140735639618304
+    },
+    {
+        "operation_id": "9bdb114e-74af-4f63-8f25-60d9b2cf0f2a",
+        "operation_name": "GET",
+        "start_time": 1627892348.123,
+        "end_time": 1627892348.456,
+        "request_payload": {
+            "key": "x"
+        },
+        "response_payload": {
+            "status": "success",
+            "data": {
+                "key": "x",
+                "value": 1
+            }
+        },
+        "status_code": 200,
+        "thread_id": 140735639618304
+    },
+    {
+        "operation_id": "af6d4163-8d25-4a1b-b8ff-3f2f9b9e1a4b",
+        "operation_name": "GET",
+        "start_time": 1627892349.123,
+        "end_time": 1627892349.456,
+        "request_payload": {
+            "key": "x"
+        },
+        "response_payload": {
+            "status": "failure",
+            "data": "data not found"
+        },
+        "status_code": 404,
+        "thread_id": 140735639618304
+    },
+    {
+        "operation_id": "af6d4163-8d25-4a1b-b8ff-3f2f9b9e1a4b",
+        "operation_name": "GET",
+        "start_time": 1627892349.123,
+        "end_time": 1627892349.456,
+        "request_payload": {
+            "key": "x"
+        },
+        "response_payload": {
+            "status": "success",
+            "data": {
+                "key": "x",
+                "value": 1
+            }
+        },
+        "status_code": 200,
+        "thread_id": 140735639618304
+    }
+]
